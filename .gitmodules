@@ -1,3 +1,6 @@
 [submodule "anuncios-temp"]
 	path = anuncios-temp
 	url = git@github.com:DanmerCC/anuncios-temp.git
+[submodule "danmercc-ads-admin"]
+	path = danmercc-ads-admin
+	url = git@github.com:DanmerCC/danmercc-ads-admin.git
